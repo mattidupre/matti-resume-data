@@ -22,45 +22,45 @@ accomplishments:
   - In my spare time I volunteer in ski patrol and search-and-rescue.
 
 technologies:
-  - - category: Frontend
-      items:
-        - Vanilla Javascript, ES6
-        - TypeScript, Flow, ESLint
-        - Webpack, Rollup, Babel, Gulp
-        - React, Redux, Generators / Sagas
-        - Polymer, Backbone.js
-        - D3, Highcharts, Raphaël, Paper.js
-        - Material UI, Bootstrap, Tailwind
-        - CSS, JSS, SASS, Stylus, BEM
-        - Styled Components, Emotion JS
-  - - category: Backend
-      items:
-        - Node, Express, Koa, Hapi
-        - Native Node Streaming API
-        - REST, GraphQL, Web Sockets
-        - MySQL, PostgreSQL, MongoDB, Redis
-        - Sequelize, Knex, Objection JS
-        - PHP, Wordpress, Drupal
-    - category: Test-Driven Development
-      items:
-        - Red - Green - Refactor
-        - Jest, Mocha, Chai, Ava
-        - Enzyme, Testing Library
-  - - category: DevOps & Architecture
-      items:
-        - Amazon Web Services (AWS)
-        - Serverless.js, AWS Lambda
-        - Docker, Kubernetes, Rancher
-        - ElasticSearch, Kafka, Tableau
-        - BrowserStack, Cyprus, Puppeteer
-    - category: Design
-      items:
-        - Adobe Creative Suite
-        - Sketch, Zeplin, Inspect
-        - Print Design
-        - Logos & Branding
+  - category: Frontend
+    items:
+      - Vanilla Javascript, ES6
+      - TypeScript, Flow, ESLint
+      - Webpack, Rollup, Babel, Gulp
+      - React, Redux, Generators / Sagas
+      - Polymer, Backbone.js
+      - D3, Highcharts, Raphaël, Paper.js
+      - Material UI, Bootstrap, Tailwind
+      - CSS, JSS, SASS, Stylus, BEM
+      - Styled Components, Emotion JS
+  - category: Backend
+    items:
+      - Node, Express, Koa, Hapi
+      - Native Node Streaming API
+      - REST, GraphQL, Web Sockets
+      - MySQL, PostgreSQL, MongoDB, Redis
+      - Sequelize, Knex, Objection JS
+      - PHP, Wordpress, Drupal
+  - category: Test-Driven Development
+    items:
+      - Red - Green - Refactor
+      - Jest, Mocha, Chai, Ava
+      - Enzyme, Testing Library
+  - category: DevOps & Architecture
+    items:
+      - Amazon Web Services (AWS)
+      - Serverless.js, AWS Lambda
+      - Docker, Kubernetes, Rancher
+      - ElasticSearch, Kafka, Tableau
+      - BrowserStack, Cyprus, Puppeteer
+  - category: Design
+    items:
+      - Adobe Creative Suite
+      - Sketch, Zeplin, Inspect
+      - Print Design
+      - Logos & Branding
 
-experience:
+experiences:
   - company: nZero
     isContract: false
     title: Senior Frontend Engineer
