@@ -8,7 +8,7 @@ profile:
     line1: PO Box 2658
     city: Stateline
     state: Nevada
-    zipCode: 89449
+    zipCode: '89449'
   miscStats:
     Location: San Francisco / Tahoe
     Work Eligibility: USA, Canada, EU
@@ -22,41 +22,50 @@ accomplishments:
   - In my spare time I volunteer in ski patrol and search-and-rescue.
 
 technologies:
-  - category: Frontend
+  - category: Language
     items:
-      - Vanilla Javascript, ES6
-      - TypeScript, Flow, ESLint
-      - Webpack, Rollup, Babel, Gulp
-      - React, Redux, Generators / Sagas
-      - Polymer, Backbone.js
-      - D3, Highcharts, Raphaël, Paper.js
-      - Material UI, Bootstrap, Tailwind
-      - CSS, JSS, SASS, Stylus, BEM
-      - Styled Components, Emotion JS
+      - Javascript / TypeScript
+      - Node / Deno
+      - PHP
+  - category: Frontend Frameworks
+    items:
+      - React
+      - Next.js
+      - Remix
+      - Polymer
+      - Backbone
+      - D3 / Highcharts
+      - Zod
+      - React Testing Library
+  - category: CSS Frameworks
+    items:
+      - BEM
+      - LESS
+      - SASS
+      - Tailwind
+      - Styled Components
+      - Emotion
+      - Vanilla Extract
   - category: Backend
     items:
-      - Node, Express, Koa, Hapi
-      - Native Node Streaming API
-      - REST, GraphQL, Web Sockets
-      - MySQL, PostgreSQL, MongoDB, Redis
-      - Sequelize, Knex, Objection JS
-      - PHP, Wordpress, Drupal
-  - category: Test-Driven Development
-    items:
-      - Red - Green - Refactor
-      - Jest, Mocha, Chai, Ava
-      - Enzyme, Testing Library
+      - REST
+      - GraphQL
+      - MySQL
+      - PostgreSQL
+      - MongoDB
+      - Redis
   - category: DevOps & Architecture
     items:
       - Amazon Web Services (AWS)
-      - Serverless.js, AWS Lambda
-      - Docker, Kubernetes, Rancher
-      - ElasticSearch, Kafka, Tableau
-      - BrowserStack, Cyprus, Puppeteer
+      - Docker / Kubernetes
+      - ElasticSearch
+      - Kafka
+      - Tableau
   - category: Design
     items:
       - Adobe Creative Suite
-      - Sketch, Zeplin, Inspect
+      - Figma
+      - Zeplin
       - Print Design
       - Logos & Branding
 
@@ -64,8 +73,8 @@ experiences:
   - company: nZero
     isContract: false
     title: Senior Frontend Engineer
-    dateStart: dec/2022
-    dateEnd: may/2022
+    dateStart: 2022/12
+    dateEnd: 2022/05
     accomplishments:
       - Single-handedly refactored an entire data model of disparate frameworks around React-Query, allowing junior engineers to build more features off an established design pattern.
       - Shifted our team's agile practices to align with the Scrum ideology laid out by its founders Jeff and J.J. Sutherland.
@@ -78,8 +87,8 @@ experiences:
   - company: Rivian Automotive
     isContract: false
     title: Senior Staff Frontend Engineer
-    dateStart: march/2022
-    dateEnd: aug/2022
+    dateStart: 2022/03
+    dateEnd: 2022/08
     accomplishments:
       - Part of a four-person squad responsible for rolling out a critical application in three months, saving Rivian $800k.
       - Went on to lead a cross-department initiative responsible for consolidating code and documentation under a shared common component library.
@@ -92,8 +101,8 @@ experiences:
   - company: Panasonic Energy North America
     isContract: false
     title: Software Engineering Supervisor
-    dateStart: march/2021
-    dateEnd: 'march/2022'
+    dateStart: 2021/03
+    dateEnd: '2022/03'
     accomplishments:
       - Acted as team lead for the Machine Information Systems division.
       - Migrated the codebase to a monorepo architecture.
@@ -105,8 +114,8 @@ experiences:
   - company: iHeart Media
     isContract: false
     title: Senior Engineer
-    dateStart: jan/2020
-    dateEnd: dec/2020
+    dateStart: 2020/01
+    dateEnd: 2020/12
     accomplishments:
       - First employee on the iHeart Nashville web team.
       - Interviewed and onboarded seven additional developers, several virtually during COVID-19 lockdowns.
@@ -126,8 +135,8 @@ experiences:
   - company: American Family Insurance
     isContract: true
     title: Senior Engineer
-    dateStart: sept/2019
-    dateEnd: dec/2019
+    dateStart: 2019/09
+    dateEnd: 2019/12
     accomplishments:
       - Worked with the Architecture team to lay the foundations of a green-field web app.
       - Performed maintenance and updated on the legacy codebase.
@@ -137,8 +146,8 @@ experiences:
   - company: Charter Communications
     isContract: true
     title: Senior Architect
-    dateStart: march/2019
-    dateEnd: aug/2019
+    dateStart: 2019/03
+    dateEnd: 2019/08
     accomplishments:
       - Coordinated two teams in refactoring Charter’s custom analytics engine running across 15 platforms and accepting over 1.8 billion events per day.
       - Stood up multiple projects under industry best-practices, including a custom cross-platform, environment-agnostic testing platform used by Charter’s offshore team.
@@ -161,8 +170,8 @@ experiences:
   - company: Nutrien
     isContract: true
     title: Senior Engineer
-    dateStart: aug/2018
-    dateEnd: march/2019
+    dateStart: 2018/08
+    dateEnd: 2019/03
     accomplishments:
       - Brought on as a frontend developer but quickly moved to a full-stack role. Worked with my own team but also provided organizational support.
       - Organized lunch-and learns, facilitated guild discussions, conducted job interviews.
@@ -186,8 +195,8 @@ experiences:
   - company: Misc. Clients
     isContract: false
     title: Freelancer
-    dateStart: april/2013
-    dateEnd: aug/2018
+    dateStart: 2013/04
+    dateEnd: 2018/08
     accomplishments:
       - Partnered with Alaskan businesses to create content-managed websites and software solutions.
       - Worked one-on-one with clients’ employees to develop the most efficient workflows.
@@ -213,8 +222,8 @@ experiences:
   - company: Alaska Dev Meetup
     isContract: false
     title: Founder & Organizer
-    dateStart: dec/2014
-    dateEnd: present
+    dateStart: 2014/12
+    dateEnd:
     accomplishments:
       - Recruited reclusive Alaskan developers to help form a tech community.
       - Taught several community classes on getting started with programming.
@@ -223,8 +232,8 @@ experiences:
   - company: Indemnis
     isContract: false
     title: Co-Founder
-    dateStart: may/2015
-    dateEnd: present
+    dateStart: 2015/05
+    dateEnd: 2020/05
     accomplishments:
       - Developed complex illustrations and 3D models that were later used in obtaining several critical patents.
       - Created the first iteration of the Indemnis Website with social media synchronization via AWS Lambda.
@@ -237,8 +246,8 @@ experiences:
   - company: State of Alaska
     isContract: false
     title: Internet Specialist
-    dateStart: april/2012
-    dateEnd: april/2013
+    dateStart: 2012/04
+    dateEnd: 2013/04
     accomplishments:
       - Translated the State of Alaska look and feel into a public-facing Microsoft SharePoint website.
       - Updated and migrated over 17,000 pages of content.
@@ -250,8 +259,8 @@ experiences:
   - company: Small Business Clients
     isContract: false
     title: Freelancer
-    dateStart: jan/2003
-    dateEnd: april/2012
+    dateStart: 2003/01
+    dateEnd: 2012/04
     accomplishments:
       - Began freelancing in high school as a graphic designer. Quickly moved into web design and marketing.
       - Learned PHP and Javascript in college. Paid tuition with Drupal and Wordpress sites.
