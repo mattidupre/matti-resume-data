@@ -13,6 +13,12 @@ contact:
     state: Nevada
     zipCode: '89449'
 
+personInfo:
+  - [Location, 'San Francisco / Tahoe']
+  - [Work Eligibility, 'USA, Canada, EU']
+  - [Degree, 'BSc. Biology (Premed)']
+  - [Languages, 'Dutch, German, English']
+
 theme:
   colors:
     accent:
