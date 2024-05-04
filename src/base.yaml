@@ -13,11 +13,11 @@ contact:
     state: Nevada
     zipCode: '89449'
 
-personInfo:
-  - [Location, 'San Francisco / Tahoe']
-  - [Work Eligibility, 'USA, Canada, EU']
-  - [Degree, 'BSc. Biology (Premed)']
-  - [Languages, 'Dutch, German, English']
+# personInfo:
+#   - [Location, 'San Francisco / Tahoe']
+#   - [Work Eligibility, 'USA, Canada, EU']
+#   - [Degree, 'BSc. Biology (Premed)']
+#   - [Languages, 'Dutch, German, English']
 
 theme:
   colors:
@@ -25,6 +25,20 @@ theme:
       hue: 72
       chroma: 0.059
       lightness: 1
+
+introduction:
+  web:
+    heading: Hi There!
+    content: |
+      I’m not your typical test-driven senior software engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
+
+      My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
+  document:
+    heading: Hi There!
+    content: |
+      I’m not your typical test-driven senior software engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
+
+      My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
 
 skills:
   - - title: Frontend
@@ -186,7 +200,7 @@ experiences:
   - company: null
     type: fullTime
     title: Contract and Freelance Work
-    dateStart: '2012'
+    dateStart: '2009'
     dateEnd: '2018'
     accomplishments:
       - Contracted with the State of Alaska to automate the migration of over 1,000 healthcare web pages into Microsoft SharePoint.
