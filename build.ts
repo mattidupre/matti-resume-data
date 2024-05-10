@@ -23,6 +23,6 @@ await Promise.all(
       JSON.stringify(resumeRaw, undefined, 2)
     );
 
-    console.log(`${base} built`);
+    console.info(`${base} built`);
   })
 );
