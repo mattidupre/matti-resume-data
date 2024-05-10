@@ -2,6 +2,7 @@ person:
   firstName: Matti
   lastName: Dupré
   title: Staff Software Engineer
+  location: SF Bay Area
 
 contact:
   tel: (907)565-9436
