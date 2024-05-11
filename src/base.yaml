@@ -76,9 +76,9 @@ skills:
         - [BrowserStack, Cyprus, Puppeteer]
 
 experiences:
-  - company: Contract and Freelance Work
+  - company: null
     isContract: false
-    title: null
+    title: Contract and Freelance Work
     dateStart: 2023/06
     dateEnd: Present
     accomplishments:
