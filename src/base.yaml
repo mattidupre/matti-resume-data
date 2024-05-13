@@ -37,10 +37,10 @@ introduction:
       My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
 
 highlights:
-  - 'Location: San Francisco / Tahoe'
-  - 'Work Eligibility: USA, Canada, EU'
+  - 'Location: SF Bay Area'
+  - 'Work Eligibility: USA, CAN, EU'
   - 'Degree: BSc. Biology (Premed)'
-  - 'Languages: Dutch, German, English'
+  - 'Languages: English, Dutch, German'
 
 skills:
   - - title: Frontend
@@ -85,7 +85,7 @@ experiences:
     accomplishments:
       - Contracted for a stealth startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
       - Partnered with a web development studio to migrate clients from Wordpress to a headless architecture with Sanity CMS serving as the backend layer and Next.JS serving as the frontend.
-      - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
+      - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing. See <a href="https://mattidupre.com" target="_blank">mattidupre.com</a>.
 
   - company: nZero
     type: fullTime
