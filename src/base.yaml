@@ -13,6 +13,7 @@ contact:
     city: Stateline
     state: Nevada
     zipCode: '89449'
+  website: https://mattidupre.com
 
 theme:
   colors:
