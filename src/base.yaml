@@ -5,7 +5,6 @@ person:
   location: SF Bay Area
 
 contact:
-  tel: (907)565-9436
   email: matti.dupre@gmail.com
   linkedIn: mattidupre
   address:
@@ -81,7 +80,7 @@ experiences:
     dateEnd: Present
     accomplishments:
       - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
-      - Created a personal website automating creation of resumes, including this document. See <a href="https://mattidupre.com" target="_blank">mattidupre.com</a>.
+      - Created <a href="https://mattidupre.com" target="_blank">mattidupre.com</a> automating creation of resumes, including this document.
       - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
       - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
 
