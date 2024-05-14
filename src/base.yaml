@@ -83,15 +83,16 @@ experiences:
     dateStart: 2023/06
     dateEnd: Present
     accomplishments:
-      - Contracted for a stealth startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
-      - Partnered with a web development studio to migrate clients from Wordpress to a headless architecture with Sanity CMS serving as the backend layer and Next.JS serving as the frontend.
-      - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing. See <a href="https://mattidupre.com" target="_blank">mattidupre.com</a>.
+      - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
+      - Created a personal website automating creation of resumes, including this document. See <a href="https://mattidupre.com" target="_blank">mattidupre.com</a>.
+      - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
+      - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
 
   - company: nZero
     type: fullTime
     title: Senior Frontend Engineer
     dateStart: 2022/12
-    dateEnd: 2022/05
+    dateEnd: 2023/05
     accomplishments:
       - Tasked with leading a team of five engineers in developing an internal application for client data entry.
       - Refactored a company-wide data model of disparate frameworks around a JSON:API and React-Query, allowing engineers to iterate off an established design pattern.
