@@ -47,23 +47,21 @@ skills:
       skills:
         - [TypeScript, JavaScript, PHP]
         - [Rollup, Vite, esbuild, NX]
-        - [Zustand, React Query, AG-Grid]
+        - [Zustand, React Query]
         - [Next.js, Remix, Vike, SSR]
         - [Amazon TAMS]
-        - [D3, Highcharts, Raphaël, Paper.js]
-        - [Polymer, Backbone, Ampersand]
-        - [CSS, SASS, Tailwind, Vanilla Extract]
+        - [D3, Raphaël, Paper.js]
+        - [CSS, SASS, Tailwind]
   - - title: Backend
       skills:
-        - [Node, Bun, Express, Fastify]
+        - [Node, Bun, Express]
         - [GraphQL, Web Sockets, tRPC]
-        - [MySQL, PostgreSQL, MongoDB, Redis]
+        - [PostgreSQL, MongoDB]
         - [Wordpress, Drupal, Symfony]
     - title: Design and UI
       skills:
         - [Adobe Creative Suite]
         - [Figma, Sketch, Zeplin, Inspect]
-        - [Infographics & Data Visualization]
   - - title: DevOps & Architecture
       skills:
         - [Amazon Web Services (AWS)]
@@ -73,8 +71,7 @@ skills:
     - title: Test-Driven Development
       skills:
         - [Vitest, Jest, Ava, Mocha, Chai]
-        - [Enzyme, React Testing Library]
-        - [BrowserStack, Cyprus, Puppeteer]
+        - [BrowserStack, Puppeteer]
 
 experiences:
   - company: null
