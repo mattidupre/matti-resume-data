@@ -1,4 +1,4 @@
-person:
+applicant:
   firstName: Matti
   lastName: Dupré
   title: Staff Software Engineer
@@ -21,227 +21,228 @@ theme:
       chroma: 0.059
       lightness: 1
 
-introduction:
-  web:
-    heading: Hi There!
-    content: |
-      I’m not your typical test-driven frontend engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
+resume:
+  introduction:
+    web:
+      heading: Hi There!
+      content: |
+        I’m not your typical test-driven frontend engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
 
-      My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
-  document:
-    heading: Hi There!
-    content: |
-      I’m not your typical test-driven frontend engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
+        My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
+    document:
+      heading: Hi There!
+      content: |
+        I’m not your typical test-driven frontend engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
 
-      My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
+        My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
 
-highlights:
-  - 'Location: SF Bay Area'
-  - 'Work Eligibility: USA, CAN, EU'
-  - 'Degree: BSc. Biology (Premed)'
-  - 'Languages: English, Dutch, German'
+  highlights:
+    - 'Location: SF Bay Area'
+    - 'Work Eligibility: USA, CAN, EU'
+    - 'Degree: BSc. Biology (Premed)'
+    - 'Languages: English, Dutch, German'
 
-skills:
-  - - title: Frontend
+  skills:
+    - - title: Frontend
+        skills:
+          - [TypeScript, JavaScript, PHP]
+          - [Rollup, Vite, esbuild, NX]
+          - [Zustand, React Query]
+          - [Next.js, Remix, Vike, SSR]
+          - [Amazon TAMS]
+          - [D3, Raphaël, Paper.js]
+          - [CSS, SASS, Tailwind]
+    - - title: Backend
+        skills:
+          - [Node, Bun, Express]
+          - [GraphQL, Web Sockets, tRPC]
+          - [PostgreSQL, MongoDB]
+          - [Wordpress, Drupal, Symfony]
+      - title: Design and UI
+        skills:
+          - [Adobe Creative Suite]
+          - [Figma, Sketch, Zeplin, Inspect]
+    - - title: DevOps & Architecture
+        skills:
+          - [Amazon Web Services (AWS)]
+          - [Serverless.js, AWS Lambda]
+          - [Docker, Kubernetes, Rancher]
+          - [ElasticSearch, Kafka, Tableau]
+      - title: Test-Driven Development
+        skills:
+          - [Vitest, Jest, Ava, Mocha, Chai]
+          - [BrowserStack, Puppeteer]
+
+  experiences:
+    - company: null
+      isContract: false
+      title: Contract and Freelance Work
+      dateStart: 2023/06
+      dateEnd: Present
+      accomplishments:
+        - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
+        - Created <a href="https://mattidupre.com" target="_blank">mattidupre.com</a> automating creation of resumes, including this document.
+        - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
+        - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
+
+    - company: nZero
+      type: fullTime
+      title: Senior Frontend Engineer
+      dateStart: 2022/12
+      dateEnd: 2023/05
+      accomplishments:
+        - Tasked with leading a team of five engineers in developing an internal application for client data entry.
+        - Refactored a company-wide data model of disparate frameworks around a JSON:API and React-Query, allowing engineers to iterate off an established design pattern.
+      leavingReason: Laid off when my team's role was eliminated in favor of an existing Rails stack.
+      skills: ['React', 'React-Query', 'Rails', 'JSON-API']
+
+    - company: Rivian Automotive
+      type: fullTime
+      title: Senior Staff Frontend Engineer
+      dateStart: 2022/03
+      dateEnd: 2022/09
+      accomplishments:
+        - Initially hired as part of a four-person squad responsible for developing a bespoke vendor tracking CRM with a three-month deadline.
+        - Delivered two weeks early, saving Rivian $800k in yearly vendor costs.
+        - Promoted to lead a cross-department initiative in consolidating code and documentation across a company-wide component library.
+      leavingReason: Laid off as part of a company-wide restructuring.
+      skills: ['React', 'Micro-frontend', 'Amplify', 'GraphQL']
+
+    - company: Panasonic Energy North America
+      type: fullTime
+      title: Software Engineering Supervisor
+      dateStart: 2021/03
+      dateEnd: 2022/03
+      accomplishments:
+        - Hired as a senior engineer to develop a new factory-wide monorepo architecture using on-premise air-gapped hardware.
+        - Promoted to manage the Machine Information Systems software team.
+        - Organized, groomed, and cleared over 1,000 backlogged tickets using custom Jira workflows.
+        - Worked with various directors in adopting Scrum and Agile factory-wide.
+      leavingReason: null
+      skills: ['Node', 'Monorepos', 'React', 'Redux', 'Agile & Scrum']
+
+    - company: iHeart Media
+      type: fullTime
+      title: Senior Engineer
+      dateStart: 2020/01
+      dateEnd: 2020/12
+      accomplishments:
+        - Recruited as the founding employee on the iHeart Nashville web team. Interviewed, onboarded, and trained seven additional engineers.
+        - Trained four junior developers as part of a pilot onboarding and code practices program.
+        - Tasked with leading a squad in a ground-up rewrite of the entire iHeart web ads codebase. Delivered the completed project on-time before my final day of work.
       skills:
-        - [TypeScript, JavaScript, PHP]
-        - [Rollup, Vite, esbuild, NX]
-        - [Zustand, React Query]
-        - [Next.js, Remix, Vike, SSR]
-        - [Amazon TAMS]
-        - [D3, Raphaël, Paper.js]
-        - [CSS, SASS, Tailwind]
-  - - title: Backend
+        [
+          'Node',
+          'Github Actions',
+          'React',
+          'Redux',
+          'Emotion JS',
+          'Google Publisher Tags',
+        ]
+
+    - company: American Family Insurance
+      type: contract
+      title: Senior Engineer
+      dateStart: 2019/09
+      dateEnd: 2019/12
+      accomplishments:
+        - Tasked with finding a solution to better manage hundreds of onboarding forms needing to be rapidly adjusted for changing legal requirements.
+        - Architected a custom schema-driven frontend form framework capable of dynamically adjusting fields based on responses from previous questions.
+      leavingReason: Left at the end of my contract period in pursuit of a full-time role.
+      skills: ['React', 'Redux', 'Formik', 'Yup.js']
+
+    - company: Charter Communications
+      type: contract
+      title: Senior Architect
+      dateStart: 2019/03
+      dateEnd: 2019/08
+      accomplishments:
+        - Promoted early-on to fill a vacant architect position and devise an automated solution to detect analytics configuration problems in a platform receiving 1.8 billion events per day across 15 different platforms.
+        - Designed comprehensive UAT framework to test the implementation of the analytics engine. Delivered an MVP with a queue dispatching to various microservices executing tests across different environments and a reporting dashboard generating respective product health insights.
+      leavingReason: Left at end of my contract to move to Nashville.
       skills:
-        - [Node, Bun, Express]
-        - [GraphQL, Web Sockets, tRPC]
-        - [PostgreSQL, MongoDB]
-        - [Wordpress, Drupal, Symfony]
-    - title: Design and UI
+        [
+          'Node',
+          'Express',
+          'React',
+          'Angular',
+          'Redux',
+          'PostgreSQL',
+          'MongoDB',
+          'Kafka',
+          'Tableau',
+        ]
+
+    - company: Nutrien
+      type: contract
+      title: Senior Engineer
+      dateStart: 2018/08
+      dateEnd: 2019/03
+      accomplishments:
+        - Worked with my own team but also provided company-wide support in rolling out a shared company component library.
+        - Developed a frontend API by which legacy JavaScript libraries could be used in modern React components.
+        - Organized lunch-and learns, conducted job interviews, and worked with the director of agile in documenting company practices.
+      leavingReason: Left at end of contract.
       skills:
-        - [Adobe Creative Suite]
-        - [Figma, Sketch, Zeplin, Inspect]
-  - - title: DevOps & Architecture
+        [
+          'Node',
+          'Express',
+          'React',
+          'Redux',
+          'PostgreSQL',
+          'Redis',
+          'TypeScript',
+          'Joi',
+          'Sketch',
+          'Zeplin',
+        ]
+
+    - company: null
+      type: fullTime
+      title: Contract and Freelance Work
+      dateStart: '2009'
+      dateEnd: '2018'
+      accomplishments:
+        - Contracted with the State of Alaska to automate the migration of over 1,000 healthcare web pages into Microsoft SharePoint.
+        - Created a ticketing platform to display availability across all 2000+ seats in the Atwood Concert Hall.
+        - Partnered with Alaskan businesses to create content-managed websites and software solutions.
+        - Designed brands and style guides that have been commended long after my work was done.
       skills:
-        - [Amazon Web Services (AWS)]
-        - [Serverless.js, AWS Lambda]
-        - [Docker, Kubernetes, Rancher]
-        - [ElasticSearch, Kafka, Tableau]
-    - title: Test-Driven Development
-      skills:
-        - [Vitest, Jest, Ava, Mocha, Chai]
-        - [BrowserStack, Puppeteer]
+        [
+          'PHP',
+          'Wordpress',
+          'Drupal',
+          'MySQL',
+          'AWS Lambda',
+          'Docker',
+          'Rancher',
+          'Node',
+          'Express',
+          'PostgreSQL',
+          'D3',
+          'Backbone',
+          'React',
+        ]
 
-experiences:
-  - company: null
-    isContract: false
-    title: Contract and Freelance Work
-    dateStart: 2023/06
-    dateEnd: Present
-    accomplishments:
-      - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
-      - Created <a href="https://mattidupre.com" target="_blank">mattidupre.com</a> automating creation of resumes, including this document.
-      - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
-      - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
+    - company: Alaska Dev Meetup
+      type: fullTime
+      title: Founder & Organizer
+      dateStart: 2014/12
+      dateEnd:
+      accomplishments:
+        - Recruited reclusive Alaskan developers to help form a cohesive tech community.
+        - Facilitated discussions and gave presentations on various programming topics.
+        - Taught multiple community classes on getting started with programming.
 
-  - company: nZero
-    type: fullTime
-    title: Senior Frontend Engineer
-    dateStart: 2022/12
-    dateEnd: 2023/05
-    accomplishments:
-      - Tasked with leading a team of five engineers in developing an internal application for client data entry.
-      - Refactored a company-wide data model of disparate frameworks around a JSON:API and React-Query, allowing engineers to iterate off an established design pattern.
-    leavingReason: Laid off when my team's role was eliminated in favor of an existing Rails stack.
-    skills: ['React', 'React-Query', 'Rails', 'JSON-API']
-
-  - company: Rivian Automotive
-    type: fullTime
-    title: Senior Staff Frontend Engineer
-    dateStart: 2022/03
-    dateEnd: 2022/09
-    accomplishments:
-      - Initially hired as part of a four-person squad responsible for developing a bespoke vendor tracking CRM with a three-month deadline.
-      - Delivered two weeks early, saving Rivian $800k in yearly vendor costs.
-      - Promoted to lead a cross-department initiative in consolidating code and documentation across a company-wide component library.
-    leavingReason: Laid off as part of a company-wide restructuring.
-    skills: ['React', 'Micro-frontend', 'Amplify', 'GraphQL']
-
-  - company: Panasonic Energy North America
-    type: fullTime
-    title: Software Engineering Supervisor
-    dateStart: 2021/03
-    dateEnd: 2022/03
-    accomplishments:
-      - Hired as a senior engineer to develop a new factory-wide monorepo architecture using on-premise air-gapped hardware.
-      - Promoted to manage the Machine Information Systems software team.
-      - Organized, groomed, and cleared over 1,000 backlogged tickets using custom Jira workflows.
-      - Worked with various directors in adopting Scrum and Agile factory-wide.
-    leavingReason: null
-    skills: ['Node', 'Monorepos', 'React', 'Redux', 'Agile & Scrum']
-
-  - company: iHeart Media
-    type: fullTime
-    title: Senior Engineer
-    dateStart: 2020/01
-    dateEnd: 2020/12
-    accomplishments:
-      - Recruited as the founding employee on the iHeart Nashville web team. Interviewed, onboarded, and trained seven additional engineers.
-      - Trained four junior developers as part of a pilot onboarding and code practices program.
-      - Tasked with leading a squad in a ground-up rewrite of the entire iHeart web ads codebase. Delivered the completed project on-time before my final day of work.
-    skills:
-      [
-        'Node',
-        'Github Actions',
-        'React',
-        'Redux',
-        'Emotion JS',
-        'Google Publisher Tags',
-      ]
-
-  - company: American Family Insurance
-    type: contract
-    title: Senior Engineer
-    dateStart: 2019/09
-    dateEnd: 2019/12
-    accomplishments:
-      - Tasked with finding a solution to better manage hundreds of onboarding forms needing to be rapidly adjusted for changing legal requirements.
-      - Architected a custom schema-driven frontend form framework capable of dynamically adjusting fields based on responses from previous questions.
-    leavingReason: Left at the end of my contract period in pursuit of a full-time role.
-    skills: ['React', 'Redux', 'Formik', 'Yup.js']
-
-  - company: Charter Communications
-    type: contract
-    title: Senior Architect
-    dateStart: 2019/03
-    dateEnd: 2019/08
-    accomplishments:
-      - Promoted early-on to fill a vacant architect position and devise an automated solution to detect analytics configuration problems in a platform receiving 1.8 billion events per day across 15 different platforms.
-      - Designed comprehensive UAT framework to test the implementation of the analytics engine. Delivered an MVP with a queue dispatching to various microservices executing tests across different environments and a reporting dashboard generating respective product health insights.
-    leavingReason: Left at end of my contract to move to Nashville.
-    skills:
-      [
-        'Node',
-        'Express',
-        'React',
-        'Angular',
-        'Redux',
-        'PostgreSQL',
-        'MongoDB',
-        'Kafka',
-        'Tableau',
-      ]
-
-  - company: Nutrien
-    type: contract
-    title: Senior Engineer
-    dateStart: 2018/08
-    dateEnd: 2019/03
-    accomplishments:
-      - Worked with my own team but also provided company-wide support in rolling out a shared company component library.
-      - Developed a frontend API by which legacy JavaScript libraries could be used in modern React components.
-      - Organized lunch-and learns, conducted job interviews, and worked with the director of agile in documenting company practices.
-    leavingReason: Left at end of contract.
-    skills:
-      [
-        'Node',
-        'Express',
-        'React',
-        'Redux',
-        'PostgreSQL',
-        'Redis',
-        'TypeScript',
-        'Joi',
-        'Sketch',
-        'Zeplin',
-      ]
-
-  - company: null
-    type: fullTime
-    title: Contract and Freelance Work
-    dateStart: '2009'
-    dateEnd: '2018'
-    accomplishments:
-      - Contracted with the State of Alaska to automate the migration of over 1,000 healthcare web pages into Microsoft SharePoint.
-      - Created a ticketing platform to display availability across all 2000+ seats in the Atwood Concert Hall.
-      - Partnered with Alaskan businesses to create content-managed websites and software solutions.
-      - Designed brands and style guides that have been commended long after my work was done.
-    skills:
-      [
-        'PHP',
-        'Wordpress',
-        'Drupal',
-        'MySQL',
-        'AWS Lambda',
-        'Docker',
-        'Rancher',
-        'Node',
-        'Express',
-        'PostgreSQL',
-        'D3',
-        'Backbone',
-        'React',
-      ]
-
-  - company: Alaska Dev Meetup
-    type: fullTime
-    title: Founder & Organizer
-    dateStart: 2014/12
-    dateEnd:
-    accomplishments:
-      - Recruited reclusive Alaskan developers to help form a cohesive tech community.
-      - Facilitated discussions and gave presentations on various programming topics.
-      - Taught multiple community classes on getting started with programming.
-
-  - company: Indemnis
-    type: fullTime
-    title: Co-Founder
-    dateStart: '2015'
-    dateEnd: '2020'
-    accomplishments:
-      - Developed complex illustrations and 3D models that were later used in obtaining multiple patents.
-      - Created the first iteration of the Indemnis Website. Utilized AWS Lambda. to synchronize content between Wordpress and various social media platforms.
-      - Maintained an ongoing role as an advisor.
-    skills: ['PHP', 'Wordpress', 'AWS Lambda', 'Adobe Illustrator', 'Blender']
+    - company: Indemnis
+      type: fullTime
+      title: Co-Founder
+      dateStart: '2015'
+      dateEnd: '2020'
+      accomplishments:
+        - Developed complex illustrations and 3D models that were later used in obtaining multiple patents.
+        - Created the first iteration of the Indemnis Website. Utilized AWS Lambda. to synchronize content between Wordpress and various social media platforms.
+        - Maintained an ongoing role as an advisor.
+      skills: ['PHP', 'Wordpress', 'AWS Lambda', 'Adobe Illustrator', 'Blender']
 
 education: []
