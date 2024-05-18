@@ -76,18 +76,18 @@ resume:
   experiences:
     - company: null
       isContract: false
-      title: Contract and Freelance Work
+      jobTitle: Contract and Freelance Work
       dateStart: 2023/06
       dateEnd: Present
       accomplishments:
-        - Began development on a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
+        - Developed a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
         - Created <a href="https://mattidupre.com" target="_blank">mattidupre.com</a> automating creation of resumes, including this document.
         - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
         - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
 
     - company: nZero
       employmentType: fullTime
-      title: Senior Frontend Engineer
+      jobTitle: Senior Frontend Engineer
       dateStart: 2022/12
       dateEnd: 2023/05
       location: Reno, NV
@@ -100,7 +100,7 @@ resume:
 
     - company: Rivian Automotive
       employmentType: fullTime
-      title: Senior Staff Frontend Engineer
+      jobTitle: Staff Frontend Engineer
       dateStart: 2022/03
       dateEnd: 2022/09
       location: Palo Alto, CA
@@ -114,7 +114,7 @@ resume:
 
     - company: Panasonic Energy North America
       employmentType: fullTime
-      title: Software Engineering Supervisor
+      jobTitle: Software Engineering Supervisor
       dateStart: 2021/03
       dateEnd: 2022/03
       location: Reno, NV
@@ -129,7 +129,7 @@ resume:
 
     - company: iHeart Media
       employmentType: fullTime
-      title: Senior Engineer
+      jobTitle: Senior Engineer
       dateStart: 2020/01
       dateEnd: 2020/12
       location: Nashville, TN
@@ -150,7 +150,7 @@ resume:
 
     - company: American Family Insurance
       employmentType: contract
-      title: Senior Engineer
+      jobTitle: Senior Engineer
       dateStart: 2019/09
       dateEnd: 2019/12
       location: Nashville, TN
@@ -163,7 +163,7 @@ resume:
 
     - company: Charter Communications
       employmentType: contract
-      title: Senior Architect
+      jobTitle: Senior Architect
       dateStart: 2019/03
       dateEnd: 2019/08
       location: Denver, CO
@@ -187,7 +187,7 @@ resume:
 
     - company: Nutrien
       employmentType: contract
-      title: Senior Engineer
+      jobTitle: Senior Engineer
       dateStart: 2018/08
       dateEnd: 2019/03
       location: Loveland, CO
@@ -213,7 +213,7 @@ resume:
 
     - company: null
       employmentType: fullTime
-      title: Contract and Freelance Work
+      jobTitle: Contract and Freelance Work
       dateStart: '2009'
       dateEnd: '2018'
       location: Anchorage, AK
@@ -241,7 +241,7 @@ resume:
 
     - company: Alaska Dev Meetup
       employmentType: fullTime
-      title: Founder & Organizer
+      jobTitle: Founder & Organizer
       dateStart: 2014/12
       dateEnd:
       location: Anchorage, AK
@@ -252,7 +252,7 @@ resume:
 
     - company: Indemnis
       employmentType: fullTime
-      title: Co-Founder
+      jobTitle: Co-Founder
       dateStart: '2015'
       dateEnd: '2020'
       location: Anchorage, AK
