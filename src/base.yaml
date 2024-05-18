@@ -86,10 +86,12 @@ resume:
         - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
 
     - company: nZero
-      type: fullTime
+      employmentType: fullTime
       title: Senior Frontend Engineer
       dateStart: 2022/12
       dateEnd: 2023/05
+      location: Reno, NV
+      officeType: remote
       accomplishments:
         - Tasked with leading a team of five engineers in developing an internal application for client data entry.
         - Refactored a company-wide data model of disparate frameworks around a JSON:API and React-Query, allowing engineers to iterate off an established design pattern.
@@ -97,10 +99,12 @@ resume:
       skills: ['React', 'React-Query', 'Rails', 'JSON-API']
 
     - company: Rivian Automotive
-      type: fullTime
+      employmentType: fullTime
       title: Senior Staff Frontend Engineer
       dateStart: 2022/03
       dateEnd: 2022/09
+      location: Palo Alto, CA
+      officeType: remote
       accomplishments:
         - Initially hired as part of a four-person squad responsible for developing a bespoke vendor tracking CRM with a three-month deadline.
         - Delivered two weeks early, saving Rivian $800k in yearly vendor costs.
@@ -109,10 +113,12 @@ resume:
       skills: ['React', 'Micro-frontend', 'Amplify', 'GraphQL']
 
     - company: Panasonic Energy North America
-      type: fullTime
+      employmentType: fullTime
       title: Software Engineering Supervisor
       dateStart: 2021/03
       dateEnd: 2022/03
+      location: Reno, NV
+      officeType: hybrid
       accomplishments:
         - Hired as a senior engineer to develop a new factory-wide monorepo architecture using on-premise air-gapped hardware.
         - Promoted to manage the Machine Information Systems software team.
@@ -122,10 +128,12 @@ resume:
       skills: ['Node', 'Monorepos', 'React', 'Redux', 'Agile & Scrum']
 
     - company: iHeart Media
-      type: fullTime
+      employmentType: fullTime
       title: Senior Engineer
       dateStart: 2020/01
       dateEnd: 2020/12
+      location: Nashville, TN
+      officeType: inPerson
       accomplishments:
         - Recruited as the founding employee on the iHeart Nashville web team. Interviewed, onboarded, and trained seven additional engineers.
         - Trained four junior developers as part of a pilot onboarding and code practices program.
@@ -141,10 +149,12 @@ resume:
         ]
 
     - company: American Family Insurance
-      type: contract
+      employmentType: contract
       title: Senior Engineer
       dateStart: 2019/09
       dateEnd: 2019/12
+      location: Nashville, TN
+      officeType: inPerson
       accomplishments:
         - Tasked with finding a solution to better manage hundreds of onboarding forms needing to be rapidly adjusted for changing legal requirements.
         - Architected a custom schema-driven frontend form framework capable of dynamically adjusting fields based on responses from previous questions.
@@ -152,10 +162,12 @@ resume:
       skills: ['React', 'Redux', 'Formik', 'Yup.js']
 
     - company: Charter Communications
-      type: contract
+      employmentType: contract
       title: Senior Architect
       dateStart: 2019/03
       dateEnd: 2019/08
+      location: Denver, CO
+      officeType: inPerson
       accomplishments:
         - Promoted early-on to fill a vacant architect position and devise an automated solution to detect analytics configuration problems in a platform receiving 1.8 billion events per day across 15 different platforms.
         - Designed comprehensive UAT framework to test the implementation of the analytics engine. Delivered an MVP with a queue dispatching to various microservices executing tests across different environments and a reporting dashboard generating respective product health insights.
@@ -174,10 +186,12 @@ resume:
         ]
 
     - company: Nutrien
-      type: contract
+      employmentType: contract
       title: Senior Engineer
       dateStart: 2018/08
       dateEnd: 2019/03
+      location: Loveland, CO
+      officeType: inPerson
       accomplishments:
         - Worked with my own team but also provided company-wide support in rolling out a shared company component library.
         - Developed a frontend API by which legacy JavaScript libraries could be used in modern React components.
@@ -198,10 +212,11 @@ resume:
         ]
 
     - company: null
-      type: fullTime
+      employmentType: fullTime
       title: Contract and Freelance Work
       dateStart: '2009'
       dateEnd: '2018'
+      location: Anchorage, AK
       accomplishments:
         - Contracted with the State of Alaska to automate the migration of over 1,000 healthcare web pages into Microsoft SharePoint.
         - Created a ticketing platform to display availability across all 2000+ seats in the Atwood Concert Hall.
@@ -225,20 +240,22 @@ resume:
         ]
 
     - company: Alaska Dev Meetup
-      type: fullTime
+      employmentType: fullTime
       title: Founder & Organizer
       dateStart: 2014/12
       dateEnd:
+      location: Anchorage, AK
       accomplishments:
         - Recruited reclusive Alaskan developers to help form a cohesive tech community.
         - Facilitated discussions and gave presentations on various programming topics.
         - Taught multiple community classes on getting started with programming.
 
     - company: Indemnis
-      type: fullTime
+      employmentType: fullTime
       title: Co-Founder
       dateStart: '2015'
       dateEnd: '2020'
+      location: Anchorage, AK
       accomplishments:
         - Developed complex illustrations and 3D models that were later used in obtaining multiple patents.
         - Created the first iteration of the Indemnis Website. Utilized AWS Lambda. to synchronize content between Wordpress and various social media platforms.
