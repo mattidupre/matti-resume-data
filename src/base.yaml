@@ -74,7 +74,7 @@ resume:
           - [BrowserStack, Puppeteer]
 
   experiences:
-    - company: Self
+    - company: Self-Employed
       isContract: false
       jobTitle: Contractor & Freelancer
       dateStart: 2023/06
@@ -211,7 +211,7 @@ resume:
           'Zeplin',
         ]
 
-    - company: Self
+    - company: Self-Employed
       employmentType: fullTime
       jobTitle: Contractor & Freelancer
       dateStart: '2009'
