@@ -95,7 +95,7 @@ resume:
       accomplishments:
         - Tasked with leading a team of five engineers in developing an internal application for client data entry.
         - Refactored a company-wide data model of disparate frameworks around a JSON:API and React-Query, allowing engineers to iterate off an established design pattern.
-      leavingReason: Laid off when my team's role was eliminated in favor of an existing Rails stack.
+      leavingReason: Laid off when team's role was eliminated in favor of an existing Rails stack.
       skills: ['React', 'React-Query', 'Rails', 'JSON-API']
 
     - company: Rivian Automotive
