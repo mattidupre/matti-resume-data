@@ -74,9 +74,9 @@ resume:
           - [BrowserStack, Puppeteer]
 
   experiences:
-    - company: null
+    - company: Self
       isContract: false
-      jobTitle: Contract and Freelance Work
+      jobTitle: Contractor & Freelancer
       dateStart: 2023/06
       dateEnd: Present
       accomplishments:
@@ -112,7 +112,7 @@ resume:
       leavingReason: Laid off as part of a company-wide restructuring.
       skills: ['React', 'Micro-frontend', 'Amplify', 'GraphQL']
 
-    - company: Panasonic Energy North America
+    - company: Panasonic Energy
       employmentType: fullTime
       jobTitle: Software Engineering Supervisor
       dateStart: 2021/03
@@ -211,9 +211,9 @@ resume:
           'Zeplin',
         ]
 
-    - company: null
+    - company: Self
       employmentType: fullTime
-      jobTitle: Contract and Freelance Work
+      jobTitle: Contractor & Freelancer
       dateStart: '2009'
       dateEnd: '2018'
       location: Anchorage, AK
