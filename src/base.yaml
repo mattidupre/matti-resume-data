@@ -36,11 +36,11 @@ resume:
 
         My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
 
-  highlights:
-    - 'Location: SF Bay Area'
-    - 'Work Eligibility: USA, CAN, EU'
-    - 'Degree: BSc. Biology (Premed)'
-    - 'Languages: English, Dutch, German'
+  # highlights:
+  #   - 'Location: SF Bay Area'
+  #   - 'Work Eligibility: USA, CAN, EU'
+  #   - 'Degree: BSc. Biology (Premed)'
+  #   - 'Languages: English, Dutch, German'
 
   skills:
     - - title: Frontend
@@ -80,8 +80,7 @@ resume:
       dateStart: 2023/06
       dateEnd: Present
       accomplishments:
-        - Developed a personal project automating identical PDF, DocX, and web deployments via React components for the purpose of proposal writing.
-        - Created <a href="https://mattidupre.com" target="_blank">mattidupre.com</a> automating creation of resumes, including this document.
+        - Developed a personal project automating identical PDF, DocX, and web deployments via React components.
         - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
         - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
 
