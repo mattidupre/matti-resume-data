@@ -2,7 +2,8 @@
   "name": "matti-resume-data",
   "type": "module",
   "exports": {
-    "./data/": "./dist-data/"
+    "./data/": "./dist-data/",
+    "./base.yaml": "./base.yaml"
   },
   "scripts": {
     "build": "vite-node ./build",

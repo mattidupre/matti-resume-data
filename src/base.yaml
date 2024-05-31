@@ -26,13 +26,13 @@ resume:
     web:
       heading: Hi There!
       content: |
-        I’m not your typical staff frontend engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
+        I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
 
         My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
     document:
       heading: Hi There!
       content: |
-        I’m not your typical staff frontend engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
+        I’m not your typical Staff Frontend Engineer. I have over 15 years of experience in front-end design and development, backend systems engineering, and everything in between. I also have experience in working as a designer, a freelancer, a meetup organizer, and a company co-founder.
 
         My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
 
@@ -45,7 +45,7 @@ resume:
   skills:
     - - title: Frontend
         skills:
-          - [TypeScript, JavaScript, PHP]
+          - [TypeScript, JavaScript]
           - [Rollup, Vite, esbuild, NX]
           - [Zustand, React Query]
           - [Next.js, Remix, Vike, SSR]
@@ -55,22 +55,23 @@ resume:
     - - title: Backend
         skills:
           - [Node, Bun, Express]
-          - [GraphQL, Web Sockets, tRPC]
+          - [GraphQL, tRPC]
           - [PostgreSQL, MongoDB]
-          - [Wordpress, Drupal, Symfony]
+          - [Drupal, Symfony]
       - title: Design and UI
         skills:
           - [Adobe Creative Suite]
-          - [Figma, Sketch, Zeplin, Inspect]
+          - [Affinity Designer]
+          - [Figma, Sketch, Zeplin]
     - - title: DevOps & Architecture
         skills:
-          - [Amazon Web Services (AWS)]
-          - [Serverless.js, AWS Lambda]
-          - [Docker, Kubernetes, Rancher]
-          - [ElasticSearch, Kafka, Tableau]
-      - title: Test-Driven Development
+          - [Amazon Web Services]
+          - [Serverless, Lambda]
+          - [Docker, Kubernetes]
+          - [ElasticSearch, Kafka]
+      - title: Testing
         skills:
-          - [Vitest, Jest, Ava, Mocha, Chai]
+          - [Vitest, Jest, Mocha, Chai]
           - [BrowserStack, Puppeteer]
 
   experiences:
@@ -129,7 +130,7 @@ resume:
     - company: iHeart Media
       employmentType: fullTime
       jobTitle: Senior Engineer
-      dateStart: 2020/01
+      dateStart: 2019/12
       dateEnd: 2020/12
       location: Nashville, TN
       officeType: inPerson
