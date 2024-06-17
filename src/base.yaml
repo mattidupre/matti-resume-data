@@ -51,8 +51,8 @@ resume:
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
-        Began career as a graphic and branding designer to pay for college. Up to date skills with Figma, Photoshop, Illustrator, and Affinity Designer.
-      isDisabledPrint: false
+        Began career as a graphic and branding designer. Up to date skills with Figma, Photoshop, Illustrator, and Affinity Designer.
+      isDisabledPrint: true
       isDisabledWeb: false
     - content: |
         BSc. in Premed Biology from University of Alaska Anchorage. Senior thesis in telemedicine.
@@ -104,15 +104,15 @@ resume:
           - [BrowserStack, Puppeteer]
 
   experiences:
-    - company: Self-Employed
-      isContract: false
-      jobTitle: Contractor & Freelancer
+    - company: Stealth Startup
+      isContract: true
+      jobTitle: Frontend Architect
       dateStart: 2023/06
       dateEnd: Present
       accomplishments:
-        - Developed a personal project automating identical PDF, DocX, and web deployments via React components.
-        - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
-        - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
+        - Brought on as a temporary contractor to provide frontend support as-needed.
+        - Implemented a component library, improving PR scope, minimizing duplicated effort, and eliminating frontend layout bugs.
+        - Rolled out calendar scheduling, refactored payments, and integrated QuickBooks.
 
     - company: nZero Decarbonizaiton
       employmentType: fullTime
