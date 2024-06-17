@@ -29,11 +29,47 @@ resume:
 
       My diverse skillset, growth mindset, and big-picture thinking help me bring developers together, build results, and write clean test-driven code that I am proud of.
 
-  # highlights:
-  #   - 'Location: SF Bay Area'
-  #   - 'Work Eligibility: USA, CAN, EU'
-  #   - 'Degree: BSc. Biology (Premed)'
-  #   - 'Languages: English, Dutch, German'
+  highlights:
+    - content: |
+        Over 15 years of expertise with vanilla JavaScript and CSS, 10 years with Node.js and React.js.
+      isDisabledPrint: false
+      isDisabledWeb: false
+    - content: |
+        Specializing in full-stack monorepos, frontend build tools, and shared component libraries.
+      isDisabledPrint: false
+      isDisabledWeb: false
+    - content: |
+        Experience integrating with ads platforms including Amazon TAMS, Google AdWords, and Facebook Marketing API.
+      isDisabledPrint: true
+      isDisabledWeb: false
+    - content: |
+        Multiple tenures as an architect and as a team manager. Skilled in putting together agile workflows.
+      isDisabledPrint: false
+      isDisabledWeb: false
+    - content: |
+        Personal projects relating to automated PDF and DOCX document creation pipelines.
+      isDisabledPrint: false
+      isDisabledWeb: false
+    - content: |
+        Began career as a graphic and branding designer to pay for college. Up to date skills with Figma, Photoshop, Illustrator, and Affinity Designer.
+      isDisabledPrint: false
+      isDisabledWeb: false
+    - content: |
+        BSc. in Premed Biology from University of Alaska Anchorage. Senior thesis in telemedicine.
+      isDisabledPrint: true
+      isDisabledWeb: false
+    - content: |
+        Work eligibility in the United States, Canada, and the European Union.
+      isDisabledPrint: true
+      isDisabledWeb: true
+    - content: |
+        References available for all positions listed below.
+      isDisabledPrint: true
+      isDisabledWeb: true
+    - content: |
+        Located in SF Bay Area.
+      isDisabledPrint: false
+      isDisabledWeb: true
 
   skills:
     - - title: Frontend
@@ -54,7 +90,7 @@ resume:
       - title: Design and UI
         skills:
           - [Adobe Creative Suite]
-          - [Affinity Designer]
+          # - [Affinity Designer]
           - [Figma, Sketch, Zeplin]
     - - title: DevOps & Architecture
         skills:
@@ -78,7 +114,7 @@ resume:
         - Contracted for a startup to refactor Stripe payments, roll out calendar scheduling, and integrate QuickBooks.
         - Provided contract services to various clients in migrating websites from Wordpress to a headless CMS architecture.
 
-    - company: nZero
+    - company: nZero Decarbonizaiton
       employmentType: fullTime
       jobTitle: Senior Frontend Engineer
       dateStart: 2022/12
