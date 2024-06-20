@@ -47,7 +47,7 @@ resume:
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
-        Personal projects relating to automated PDF and DOCX document creation pipelines.
+        Demoable personal projects relating to automated PDF and DOCX document creation pipelines.
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
@@ -114,7 +114,7 @@ resume:
         - Implemented a component library, improving PR scope, minimizing duplicated effort, and eliminating frontend layout bugs.
         - Rolled out calendar scheduling, refactored payments, and integrated QuickBooks.
 
-    - company: nZero Decarbonizaiton
+    - company: nZero Decarbonization
       employmentType: fullTime
       jobTitle: Senior Frontend Engineer
       dateStart: 2022/12
