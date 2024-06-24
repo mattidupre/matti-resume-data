@@ -31,6 +31,10 @@ resume:
 
   highlights:
     - content: |
+        Degree in medical biology with a senior thesis in telemedicine and volunteer experience as a first responder. Strongly motivated towards an engineering role in healthcare.
+      isDisabledPrint: true
+      isDisabledWeb: true
+    - content: |
         Over 15 years of expertise with vanilla JavaScript and CSS, 10 years with Node.js and React.js.
       isDisabledPrint: false
       isDisabledWeb: false
@@ -43,7 +47,7 @@ resume:
       isDisabledPrint: true
       isDisabledWeb: false
     - content: |
-        Multiple tenures as an architect and as a team manager. Skilled in putting together agile workflows.
+        Multiple tenures as an architect and as a team manager with demonstrable success in rolling out Scrum and Agile practices.
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
@@ -275,7 +279,7 @@ resume:
       dateEnd:
       location: Anchorage, AK
       accomplishments:
-        - Recruited reclusive Alaskan developers to help form a cohesive tech community.
+        - Recruited 500+ reclusive Alaskan developers to help form a cohesive tech community.
         - Facilitated discussions and gave presentations on various programming topics.
         - Taught multiple community classes on getting started with programming.
 
