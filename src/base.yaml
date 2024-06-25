@@ -35,11 +35,11 @@ resume:
       isDisabledPrint: true
       isDisabledWeb: true
     - content: |
-        Over 15 years of expertise with vanilla JavaScript and CSS, 10 years with Node.js and React.js.
+        Over 15 years of expertise with vanilla JavaScript and CSS, 10 years with Node.js and React.js, and up-to-date skills with modern CSS and React frameworks.
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
-        Specializing in full-stack monorepos, frontend build tools, and shared component libraries.
+        Expert with shared component libraries, frontend architecture, CI/CD pipelines, build tools, and comprehensive test platforms.
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
@@ -47,7 +47,7 @@ resume:
       isDisabledPrint: true
       isDisabledWeb: false
     - content: |
-        Multiple tenures as an architect and as a team manager with demonstrable success in rolling out Scrum and Agile practices.
+        Multiple tenures as an architect and a team manager with demonstrable success in rolling out Scrum and Agile practices.
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
@@ -55,7 +55,7 @@ resume:
       isDisabledPrint: false
       isDisabledWeb: false
     - content: |
-        Began career as a graphic and branding designer. Up to date skills with Figma, Photoshop, Illustrator, and Affinity Designer.
+        Began career as a graphic and branding designer. Up-to-date skills with Figma, Photoshop, Illustrator, and Affinity Designer.
       isDisabledPrint: true
       isDisabledWeb: false
     - content: |
@@ -67,7 +67,7 @@ resume:
       isDisabledPrint: true
       isDisabledWeb: true
     - content: |
-        References available for all positions listed below.
+        360 degree references available for all listed positions.
       isDisabledPrint: true
       isDisabledWeb: true
     - content: |
