@@ -218,7 +218,7 @@ resume:
           'Tableau',
         ]
 
-    - company: Nutrien
+    - company: Nutrien Ag Solutions
       employmentType: contract
       jobTitle: Senior Engineer
       dateStart: 2018/08
@@ -285,11 +285,12 @@ resume:
 
     - company: Indemnis
       employmentType: fullTime
-      jobTitle: Co-Founder
+      jobTitle: Startup Co-Founder
       dateStart: '2015'
       dateEnd: '2020'
       location: Anchorage, AK
       accomplishments:
+        - Drone startup. Exited in 2020.
         - Developed complex illustrations and 3D models that were later used in obtaining multiple patents.
         - Created the first iteration of the Indemnis Website. Utilized AWS Lambda. to synchronize content between Wordpress and various social media platforms.
         - Maintained an ongoing role as an advisor.
