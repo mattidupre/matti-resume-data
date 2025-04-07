@@ -108,11 +108,20 @@ resume:
           - [BrowserStack, Puppeteer]
 
   experiences:
+    - company: LendingClub
+      isContract: false
+      jobTitle: Principal Frontend Engineer
+      dateStart: 2024/08
+      dateEnd: Present
+      accomplishments:
+        - Joined during a high-pressure delivery cycle, ramped up quickly, and successfully delivered features ahead of the deadline.
+        - Led a large-scale refactor of a core customer-facing product while balancing and delivering high-priority features for multiple product teams.
+        - Designed and initiated a roadmap for unified type sharing across Java, TypeScript, and legacy JavaScript codebases that will improve reliability, predictability, and developer velocity across teams.
     - company: Stealth Startup
       isContract: true
       jobTitle: Frontend Architect
       dateStart: 2023/06
-      dateEnd: Present
+      dateEnd: 2024/08
       accomplishments:
         - Brought on as a temporary contractor to provide frontend support as-needed.
         - Implemented a component library, improving PR scope, minimizing duplicated effort, and eliminating frontend layout bugs.
