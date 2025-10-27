@@ -80,7 +80,7 @@ resume:
         skills:
           - [TypeScript, JavaScript]
           - [Rollup, Vite, esbuild, NX]
-          - [Zustand, React Query]
+          - [Jotai, React Query]
           - [Next.js, Remix, Vike, SSR]
           - [Amazon TAMS]
           - [D3, Raphaël, Paper.js]
@@ -108,11 +108,20 @@ resume:
           - [BrowserStack, Puppeteer]
 
   experiences:
+    - company: Freed.ai
+      isContract: false
+      jobTitle: Staff Frontend Engineer
+      dateStart: 2025/07
+      dateEnd:
+      accomplishments:
+        - Leading the frontend architecture of an industry-defining AI clinical scribe platform, applying my healthcare background (B.Sc. in Premed Biology) to shape intuitive clinician-focused experiences.
+        - Partnering with design and product teams to build a developer-experience–centric component library that accelerates feature development and enforces UI/UX consistency across the platform.
+        - Driving a culture of technical excellence and collaboration by evangelizing paired programming—upskilling backend engineers in modern frontend architecture while expanding (and humbling) my own backend experience.
     - company: LendingClub
       isContract: false
       jobTitle: Principal Frontend Engineer
       dateStart: 2024/08
-      dateEnd: Present
+      dateEnd: 2025/05
       accomplishments:
         - Joined during a high-pressure delivery cycle, ramped up quickly, and successfully delivered features ahead of the deadline.
         - Led a large-scale refactor of a core customer-facing product while balancing and delivering high-priority features for multiple product teams.
